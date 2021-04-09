@@ -1,7 +1,7 @@
-* Link de acesso ao projeto
+* Link de acesso ao projeto<br/><br/>
 https://tomchaves.github.io/aquatom/
-
-* Tecnologia utilizada
--Html
--Css
--JavaScript
+<br/><br/>
+* Tecnologias utilizadas<br/>
+-Html<br/>
+-Css<br/>
+-JavaScript<br/>
